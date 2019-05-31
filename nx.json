@@ -1,5 +1,5 @@
 {
-  "npmScope": "angular-step-workshop",
+  "npmScope": "workshop",
   "implicitDependencies": {
     "angular.json": "*",
     "package.json": "*",
@@ -7,5 +7,24 @@
     "tslint.json": "*",
     "nx.json": "*"
   },
-  "projects": {}
+  "projects": {
+    "dashboard": {
+      "tags": []
+    },
+    "dashboard-e2e": {
+      "tags": []
+    },
+    "material": {
+      "tags": []
+    },
+    "core-date": {
+      "tags": []
+    },
+    "ui-login": {
+      "tags": []
+    },
+    "ui-toolbar": {
+      "tags": []
+    }
+  }
 }

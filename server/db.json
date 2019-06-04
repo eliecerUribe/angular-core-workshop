@@ -106,7 +106,7 @@
     {
       "id": "3",
       "title": "Project Three",
-      "details": "This is a project updated",
+      "details": "This is a updated project",
       "percentComplete": 60,
       "approved": true,
       "startDate": null,
@@ -115,21 +115,10 @@
       "customerId": "4"
     },
     {
-      "id": "4",
-      "title": "Project Four",
-      "details": "This is a sample project",
-      "percentComplete": 70,
-      "approved": true,
-      "startDate": null,
-      "targetDate": null,
-      "completionDate": null,
-      "customerId": "2"
-    },
-    {
       "id": "sOpt9N9",
-      "title": "Test TEST",
+      "title": "Test 2",
       "details": "Details test",
-      "percentComplete": 74,
+      "percentComplete": 55,
       "approved": true
     }
   ]
